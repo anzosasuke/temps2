@@ -1,7 +1,0 @@
-organization=anzosasuke
-projectKey=anzosasuke_juliet_c_test_suite
-serverUrl=https://sonarcloud.io
-serverVersion=8.0.0.36818
-dashboardUrl=https://sonarcloud.io/dashboard?id=anzosasuke_juliet_c_test_suite
-ceTaskId=AYXkO-4CpWG23hv6PaiA
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYXkO-4CpWG23hv6PaiA
